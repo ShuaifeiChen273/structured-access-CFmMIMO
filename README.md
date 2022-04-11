@@ -24,6 +24,7 @@ The package generates the simulation SE results which are used in Figure 6, Figu
 - `functionPowerControl`: Perform uplink fractional power control; 
 - `functionChannelEstimates`: Perform MMSE channel estimation;
 - `functionComputeSE_MMSE_pLSFD`: Compute simulation SE results while using LP-MMSE combining and P-LSFD.
+- `slide_bilibili`: Slide used for the Yanjiang Event, which is an academic speech contest organized by BJTU. Therefore, in this slide, only a brief introduction of the cell-free massive MIMO and the basic ideas of our proposed schemes are introduced. The full video of the presentation can be found on bilibili.com (www.bilibili.com/video/BV1fM4y1w7ND?spm_id_from=333.999.0.0)
 
 See each file for further documentation.
 
